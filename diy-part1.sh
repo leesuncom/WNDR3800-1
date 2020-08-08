@@ -30,4 +30,4 @@ git clone -b lede https://github.com/pymumu/luci-app-smartdns.git
 cd ../..
 #
 ./scripts/feeds update -a && ./scripts/feeds install -a
-rm ./tmp -rf
+#rm ./tmp -rf
